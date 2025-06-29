@@ -3,10 +3,14 @@
 # 👋 Hi, I’m Mariam Muhammed
 
 
-<h3 align="center">MERN Stack Developer</h3>
+<h1 align="center">Full-Stack Developer</h1>
+
 <p align="center">
   <a href="mailto:mariammuhammedd33@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://mariam-muhammed.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4E85D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/mariam-muhammed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
