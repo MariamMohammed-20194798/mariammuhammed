@@ -1,8 +1,8 @@
 <!-- README.md -->
 
-<h1 align="center">Hi, I’m Mariam Muhammed 👋</h1>
+# 👋 Hi, I’m Mariam Muhammed
+---
 <h3 align="center">MERN Stack Developer</h3>
-
 <p align="center">
   <a href="mailto:mariammuhammedd33@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
