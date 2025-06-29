@@ -19,8 +19,12 @@
   </a>
 </p>
 
+
+
 ## 👩‍💻 About Me
 Hi, I’m Mariam, a passionate Full-Stack Developer specializing in the MERN stack and advanced database design. I’ve built RESTful APIs in JavaScript and enterprise-grade systems, and my strong project-management skills enable me to deliver robust, scalable solutions across the full software lifecycle.
+
+
 
 ## 🔭 Currently Immersed In
 Building responsive web applications with React and TypeScript
@@ -28,10 +32,13 @@ Developing robust backend systems with Node.js and Express
 Exploring modern frontend frameworks and state management solutions
 Enhancing skills in database design and optimization
 
+
+
 ## 🎓 Education
 **Bachelor of Computer Engineering**  
 Future University in Egypt (2019 – 2023)  
 **GPA:** 3.5 / 4.00
+
 
 ### 🛠 Tech Stack
 
@@ -68,6 +75,7 @@ Future University in Egypt (2019 – 2023)
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
+
 
 
 ## 📫 Contact Me
