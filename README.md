@@ -27,10 +27,12 @@ Hi, I’m Mariam, a passionate Full-Stack Developer specializing in the MERN sta
 
 
 ## 🔭 Currently Immersed In
-Building responsive web applications with React and TypeScript
-Developing robust backend systems with Node.js and Express
-Exploring modern frontend frameworks and state management solutions
-Enhancing skills in database design and optimization
+<ul>
+  <li>Building responsive web applications with React and TypeScript</li>
+  <li>Developing robust backend systems with Node.js and Express</li>
+  <li>Exploring modern frontend frameworks and state management solutions</li>
+  <li>Enhancing skills in database design and optimization</li>
+</ul>
 
 
 
